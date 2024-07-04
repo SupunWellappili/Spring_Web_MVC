@@ -1,4 +1,12 @@
 package ik.ijse.spring.config;
 
+
+import org.springframework.beans.factory.annotation.Configurable;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+
+@Configurable
+@ComponentScan( "lk.ijse.spring.bean")
+@EnableWebMvc
 public class WebAppConfig {
 }
