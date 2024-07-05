@@ -8,8 +8,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("item")
 public class ItemController {
 
-    @GetMapping
+    //Exact Mapping
+    @GetMapping(path = "it/test1")
     public String getItem(){
        return "Get Items";
+    }
+
+    @GetMapping(path = "it/test2/order")
+    public String getItem2(){
+        return "Get Item2";
     }
 }
