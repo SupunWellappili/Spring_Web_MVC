@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Spring_MVC_01:war" />
+      <artifact name="Rest_Controller_02:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,12 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c30203ec-737d-4ae6-9c07-0c9bac4e279c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Rest_Controller_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/WebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebRootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebRootConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/web/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/web/WEB-INF/view/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/web/view/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/web/WEB-INF/view/Customer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -40,6 +42,13 @@
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2imZfS4LeKo13S50O2UjkZZHDcb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -108,9 +117,9 @@
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Spring_MVC_01:war">
+        <artifact name="Rest_Controller_02:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/Spring_MVC_01_war" />
+            <option name="CONTEXT_PATH" value="/Rest_Controller_02_war" />
           </settings>
         </artifact>
       </deployment>
@@ -188,7 +197,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Spring_MVC_01:war" />
+          <artifact name="Rest_Controller_02:war" />
         </option>
       </method>
     </configuration>
@@ -215,7 +224,7 @@
       <workItem from="1720108385885" duration="5606000" />
       <workItem from="1720119673070" duration="3800000" />
       <workItem from="1720123486731" duration="13809000" />
-      <workItem from="1720166199856" duration="13732000" />
+      <workItem from="1720166199856" duration="18645000" />
     </task>
     <servers />
   </component>

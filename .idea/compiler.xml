@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Spring_MVC_01" />
         <module name="Spring_With_Maven_01" />
+        <module name="Rest_Controller_02" />
       </profile>
     </annotationProcessing>
   </component>
