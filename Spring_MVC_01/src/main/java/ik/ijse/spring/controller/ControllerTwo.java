@@ -8,13 +8,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @Controller
-@RequestMapping("/two") //Handle Mapping
+@RequestMapping("customer") //Handle Mapping
 public class ControllerTwo  {
 
     @GetMapping //Mapping Methods/Handler Methods
     public String testTwo(){
-        return "Hello Spring";
+        return "customer";
     }
-
-
 }

@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c30203ec-737d-4ae6-9c07-0c9bac4e279c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/web/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/web/WEB-INF/view/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/web/view/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/web/WEB-INF/view/Customer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +74,8 @@
       <recent name="$PROJECT_DIR$/Spring_With_Maven_01/src/main/java/lk/ijse/spring" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spring_MVC_01/web/WEB-INF" />
+      <recent name="$PROJECT_DIR$/Spring_MVC_01/web/view" />
       <recent name="$PROJECT_DIR$/Spring_MVC_01/web" />
       <recent name="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring" />
     </key>
@@ -209,7 +215,7 @@
       <workItem from="1720108385885" duration="5606000" />
       <workItem from="1720119673070" duration="3800000" />
       <workItem from="1720123486731" duration="13809000" />
-      <workItem from="1720166199856" duration="7534000" />
+      <workItem from="1720166199856" duration="13732000" />
     </task>
     <servers />
   </component>
