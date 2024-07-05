@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c30203ec-737d-4ae6-9c07-0c9bac4e279c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/PathVariableController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/ItemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/ExactMappingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/wildCardMappingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/wildCardMappingController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
@@ -108,9 +110,8 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 10.1.25" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.25" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="Rest_Controller_02:war">
           <settings>
@@ -219,7 +220,7 @@
       <workItem from="1720108385885" duration="5606000" />
       <workItem from="1720119673070" duration="3800000" />
       <workItem from="1720123486731" duration="13809000" />
-      <workItem from="1720166199856" duration="25564000" />
+      <workItem from="1720166199856" duration="29260000" />
     </task>
     <servers />
   </component>

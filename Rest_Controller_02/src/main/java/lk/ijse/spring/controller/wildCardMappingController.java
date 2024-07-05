@@ -9,13 +9,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("wildCardMappingController")
 public class wildCardMappingController {
 
-    @GetMapping(path = "test/*/hello")
+    @GetMapping(path = "wcc/*/hello")
     public String order(){
         return "Order Mapping";
     }
 
-    @GetMapping(path = "test/*/*")
+    @GetMapping(path = "wcc/*/*")
     public String order2(){
-        return "Order Mapping";
+        return "Order Mapping2";
     }
 }
