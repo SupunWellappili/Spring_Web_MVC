@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c30203ec-737d-4ae6-9c07-0c9bac4e279c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Rest_Controller_02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/WebAppInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebAppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebRootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/config/WebRootConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_MVC_01/src/main/java/ik/ijse/spring/controller/ControllerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rest_Controller_02/src/main/java/lk/ijse/spring/controller/CustomerController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +108,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 10.1.25" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.25" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -224,7 +219,7 @@
       <workItem from="1720108385885" duration="5606000" />
       <workItem from="1720119673070" duration="3800000" />
       <workItem from="1720123486731" duration="13809000" />
-      <workItem from="1720166199856" duration="18645000" />
+      <workItem from="1720166199856" duration="20401000" />
     </task>
     <servers />
   </component>
