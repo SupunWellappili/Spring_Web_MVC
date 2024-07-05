@@ -14,6 +14,11 @@ public class CustomerController {
         return "Hello there";
     }
 
+    @GetMapping(params = "search")
+    public String searchCustomer(){
+        return "Customer Search";
+    }
+
     @PostMapping
     public String saveCustomer(){
         return "Customer Saved and Method Invoked!";
